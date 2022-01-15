@@ -1,4 +1,13 @@
-### Hi there 👋
+# Marcin Magala - (not yet) Frontend Developer!
+### Hey, welcome to my Github page, someday I'll be a Front-end developer!
+# About me
+### I'm 24 and I'm live in Poland. I love sports 🚴‍♂️🚵‍♀️🏃‍♂️, learn new skills and meet people.
+# My skills:
+### HTML, CSS, JavaScript - still learning :heavy_check_mark:
+### Basics of GIT :heavy_check_mark:
+### English A2/B1 :heavy_check_mark:
+### Great willingness to learn new skills :heavy_check_mark:
+## 📫 How to reach me: 📧 marcinmagala@gmail.com
 
 <!--
 **marcinmagala/marcinmagala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
