@@ -1,7 +1,7 @@
 # Marcin Magala - (not yet) Frontend Developer!
 ### Hey, welcome to my Github page, someday I'll be a Front-end developer!
 # About me
-### I'm 24 and I'm live in Poland. I love sports 🚴‍♂️🚵‍♀️🏃‍♂️, learn new skills and meet people.
+### I'm 24 and I live in Poland. I love sports 🚴‍♂️🚵‍♀️🏃‍♂️, learn new skills and meet people.
 # My skills:
 ### HTML, CSS, JavaScript - still learning :heavy_check_mark:
 ### Basics of GIT :heavy_check_mark:
