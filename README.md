@@ -3,10 +3,10 @@
 # About me
 ### I'm 24 and I live in Poland. I love sports 🚴‍♂️🚵‍♀️🏃‍♂️, learn new skills and meet people.
 # My skills:
-### HTML, CSS, JavaScript - still learning :heavy_check_mark:
-### Basics of GIT :heavy_check_mark:
-### English A2/B1 :heavy_check_mark:
-### Great willingness to learn new skills :heavy_check_mark:
+### :heavy_check_mark: HTML, CSS, JavaScript - still learning 
+### :heavy_check_mark: Basics of GIT 
+### :heavy_check_mark: English A2/B1 
+### :heavy_check_mark: Great willingness to learn new skills 
 ## 📫 How to reach me: 📧 marcinmagala@gmail.com
 
 <!--
