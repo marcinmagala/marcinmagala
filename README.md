@@ -7,6 +7,7 @@
 ### :heavy_check_mark: Basics of GIT 
 ### :heavy_check_mark: English A2/B1 
 ### :heavy_check_mark: Great willingness to learn new skills 
+## 🧐 My portfolio page: https://marcinmagala.netlify.app
 ## 📫 How to reach me: 📧 marcinmagala@gmail.com
 
 <!--
